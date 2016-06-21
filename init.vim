@@ -3,6 +3,7 @@
 call plug#begin('~/.config/nvim/plugins')
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'netrw'
 AirlineTheme bubblegum
 call plug#end()
 
